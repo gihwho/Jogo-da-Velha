@@ -296,9 +296,4 @@ char verificaFim()
         return 'e';   //empate
 
     return ' ';      //nenhum vencedor
-    //testando 1 2 3
-    for (
-
-        
-    )
 }
