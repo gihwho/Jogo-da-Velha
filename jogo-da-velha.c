@@ -1,4 +1,5 @@
 //PUC-SP 2021
+//projeto feito em aula
 #include <stdio.h>
 
 void zeraMatriz ();
